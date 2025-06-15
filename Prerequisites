@@ -1,0 +1,4 @@
+Before running the application, ensure you have the following installed:
+      . Python 3.6 or higher
+      . Tkinter (included with Python by default)
+No additional libraries are required for this project.
