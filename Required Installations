@@ -1,0 +1,9 @@
+Installation
+
+1. Clone the repository:
+                        git clone https://github.com/BhupendraTiwari-11/to-do-list-app.git
+cd to-do-list-app
+2.Run the Application 
+  python todo_list.py
+Note: If python doesn't work, try python3 depending on your system configuration:  
+  python3 todo_list.py
