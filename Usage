@@ -1,0 +1,22 @@
+1. Launch the application using the command above.
+2. The app opens with a clean interface featuring a gradient background.
+3 .Add a Task:
+    . Enter a task description (e.g., "Finish homework").
+    . Select a priority (Low, Medium, High) from the dropdown.
+    . Enter a due date in YYYY-MM-DD format (e.g., "2025-06-20").
+    . Click the Add button to add the task to the list.
+4.Edit a Task:
+    . Select a task from the listbox.
+    . Modify the description, priority, or due date in the input fields.
+    . Click the Edit button to update the task.
+5. Mark a Task as Completed:
+    . Select a task and click the Complete button to mark it as completed.
+6. Delete a Task:
+    . Select a task and click the Delete button to remove it.
+7. Tasks are automatically saved to tasks.json in the project directory after each action.
+
+
+
+
+
+
