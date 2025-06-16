@@ -1,9 +1,9 @@
 Features
-1.Add new tasks with descriptions, priority levels (Low, Medium, High), and due dates.
-2.Edit existing tasks to update their details.
-3.Mark tasks as completed with a single click.
-4.Delete tasks from the list.
-5.Persistent storage in tasks.json to save tasks between sessions.
-6.Modern UI with a light purple-to-white gradient background for a mobile app-like aesthetic.
-7.Input validation for task descriptions and due dates (YYYY-MM-DD format).
-8.Displays tasks in a listbox with their status, priority, and due date.
+Add new tasks with descriptions, priority levels (Low, Medium, High), and due dates.
+Edit existing tasks to update their details.
+Mark tasks as completed with a single click.
+Delete tasks from the list.
+Persistent storage in tasks.json to save tasks between sessions.
+Modern UI with a light purple-to-white gradient background for a mobile app-like aesthetic.
+Input validation for task descriptions and due dates (YYYY-MM-DD format).
+Displays tasks in a listbox with their status, priority, and due date.
